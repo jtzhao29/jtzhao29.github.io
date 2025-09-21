@@ -7,16 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-## About me
+I am a undergraduate majoring in Physics at Shanghai Jiaotong University, with a great interst in AI. 
 
-I am a undergraduate majoring in Physics at Shanghai Jiaotong University, with a great interst in AI.
+See [Research interests](#research-interests) part for more information about what I am intersted. If you share a similar passion with me, feel free to reach out and connect with me!
 
 <!-- ## Education
 - BSc in Physics, Shanghai Jiaotong University, 2027 (Expected) -->
 
 ## Research interests
 
-I mainly focus on the realization of 
+I mainly focus on how to enable models to emergently develop generalized reasoning abilities at a sustainale scale with RL
 
 
 ## Research experience
