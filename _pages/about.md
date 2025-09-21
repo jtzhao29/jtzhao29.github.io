@@ -25,8 +25,11 @@ I am a undergraduate majoring in Physics at Shanghai Jiaotong University, with a
 - March 2025 - May 2025: Research Intern Supervised by Prof.[Junchi Yan](https://thinklab.sjtu.edu.cn/) and Prof.[Renxiu Xia](https://scholar.google.com/citations?user=E520fqQAAAAJ&hl=zh-CN) @ SAI, Shanghai Jiaotong University
 
   - 这里详细说一下：TBD
+  - 
 
 - Augest 2024: Research Assistant in [Zhangjiang National Lab](https://www.zjlab.ac.cn/), where I completed an AI4PHY project on my own. 
+
+
 
 
 
