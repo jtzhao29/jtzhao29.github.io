@@ -46,8 +46,9 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
 - July 2025 - Present: Research Intern @ Big AI Dream Lab, Shanghai AI Lab. Supervised by [Jie Fu](https://bigaidream.github.io/)
 
 - March 2025 - May 2025: Research Intern Supervised by Prof.[Junchi Yan](https://thinklab.sjtu.edu.cn/) and Prof.[Renxiu Xia](https://scholar.google.com/citations?user=E520fqQAAAAJ&hl=zh-CN) @ SAI, Shanghai Jiaotong University
-  - 这里详细说一下：TBD
-  - 
+  - Hierarchical GeoBench: Introduced a hierarchical benchmark for geometric reasoning, with four levels: Visual Perception, Goal-Oriented Planning, Theorem Application, and Self-Reflective Backtracking.
+  - CoT & Task Performance: Chain-of-Thought (CoT) prompting unexpectedly degrades performance on some tasks, highlighting the critical role of reasoning methods in task outcomes.
+
 
 - Augest 2024: Research Assistant in [Zhangjiang National Lab](https://www.zjlab.ac.cn/), where I completed an AI4PHY project on my own. 
 
