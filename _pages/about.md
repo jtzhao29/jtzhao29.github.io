@@ -36,11 +36,6 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
 
 [^4]: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 
-
-
-
-
-
 ## Research experience
 
 - July 2025 - Present: Research Intern @ Big AI Dream Lab, Shanghai AI Lab. Supervised by [Jie Fu](https://bigaidream.github.io/)
@@ -50,8 +45,3 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
 
 
 - Augest 2024: Research Assistant in [Zhangjiang National Lab](https://www.zjlab.ac.cn/), where I completed an AI4PHY project on my own. 
-
-
-
-
-
