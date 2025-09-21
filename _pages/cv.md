@@ -1,4 +1,7 @@
----
+see my cv [here](/files/Jiatong%20Zhao_Resume_250814.pdf)!
+
+
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
