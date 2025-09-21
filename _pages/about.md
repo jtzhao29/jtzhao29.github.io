@@ -23,7 +23,6 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
   - Is the current Chain-of-Thought (CoT) the real "CoT"? Can RL alone make latent reasoning emerge as CoT by itself?
 
 2. AI + formal verifier system: 
-
   - I am interested in building scalable solutions where AI systems can autonomously verify their own reasoning and results through interaction with a verifier system. This approach does not rely on the amount of existing data but leverages the verifier to guide the model's learning process, which might be a potential pathway to achieving scalability.
   - There are many interesting topics within this system, such as how to design task generation mechanisms that push the model to propose tasks that are tough but not too difficult. This touches on concepts like curriculum learning or auto self-play, ensuring the model faces appropriately challenging tasks without overwhelming its current capabilities.
 
