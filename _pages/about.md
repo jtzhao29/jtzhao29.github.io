@@ -31,7 +31,7 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
 
 
 2. AI + formal verifier system: 
-  - I am interested in building scalable solutions where AI systems can autonomously verify their own reasoning and results through interaction with a verifier system(**PLVR**)[^4], which might be a potential pathway to achieving scalability.
+  - I am interested in building scalable solutions where AI systems can autonomously verify their own reasoning and results through interaction with a verifier system(**PLVR**)[^4], which might be a potential pathway to achieving **scalability**.
   - How to design task generation mechanisms that push the model to propose tasks that are tough but not too difficult. This touches on concepts like curriculum learning or **auto self-play**.
 
 [^4]: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
