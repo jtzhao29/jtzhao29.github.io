@@ -58,5 +58,7 @@ redirect_from:
   - /about.html
 ---
 
-## about me
+## About me
+
+I am a undergraduate majoring in Physics at Shanghai Jiaotong University, with a great interst in AI.
 
