@@ -25,14 +25,14 @@ author:
   avatar           : "images/jtzhao.jpg"
   name             : "Jiatong Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  # bio              : "Short biography for the left-hand sidebar"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhaojiatong@sjtu.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
