@@ -11,3 +11,13 @@ redirect_from:
 
 I am a undergraduate majoring in Physics at Shanghai Jiaotong University, with a great interst in AI.
 
+## Education
+- BSc in Physics, Shanghai Jiaotong University, 2027 (Expected)
+
+
+## Research experience
+- July 2025 - Present: Research Intern @ Big AI Dream Lab, Shanghai AI Lab. Supervised by [Jie Fu](https://bigaidream.github.io/)
+
+- March 2025 - May 2025: Research Intern Supervised by Prof.[Junchi Yan](https://thinklab.sjtu.edu.cn/) and Prof.[Renxiu Xia](https://scholar.google.com/citations?user=E520fqQAAAAJ&hl=zh-CN) @ SAI, Shanghai Jiaotong University
+
+
