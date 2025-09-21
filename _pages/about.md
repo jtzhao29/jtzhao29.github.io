@@ -22,9 +22,7 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
   - Given that SFT memories, while RL improves model's ability of combining "auto skills"[^1] [^2], is it possible to maximize a model's exploration and reasoning abilities purely through RL? Could **pure RL drive the emergence of reasoning** without any pre-defined structure?
   - Is the current Chain-of-Thought (CoT) the real "CoT"[^3]? Can **RL alone make latent reasoning emerge as CoT** by itself?
 
-[^1]: [SFT Memorizes, RL Generalizes:
-A Comparative Study of Foundation Model Post-training
-](https://arxiv.org/pdf/2501.17161)
+[^1]: [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/pdf/2501.17161)
 
 [^2]: [From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones](https://husky-morocco-f72.notion.site/From-f-x-and-g-x-to-f-g-x-LLMs-Learn-New-Skills-in-RL-by-Composing-Old-Ones-2499aba4486f802c8108e76a12af3020)
 
