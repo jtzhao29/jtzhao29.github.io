@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-see my cv [here](/files/Jiatong%20Zhao_Resume_250814.pdf)!
+see my cv [here](/files/Jiatong%20Zhao_Resume_0922.pdf)!
