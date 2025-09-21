@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ I am a undergraduate majoring in Physics at Shanghai Jiaotong University, with a
 
 ## Research interests
 
-
+I mainly focus on the realization of 
 
 
 ## Research experience
