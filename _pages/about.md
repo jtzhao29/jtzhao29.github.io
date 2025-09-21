@@ -21,20 +21,9 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
 1. Emergent Reasoning Ability: 
   - Given that SFT memories, while RL improves model's ability of combining "auto skills"[^1] [^2], is it possible to maximize a model's exploration and reasoning abilities purely through RL? Could **pure RL drive the emergence of reasoning** without any pre-defined structure?
   - Is the current Chain-of-Thought (CoT) the real "CoT"[^3]? Can **RL alone make latent reasoning emerge as CoT** by itself?
-
-[^1]: [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/pdf/2501.17161)
-
-[^2]: [From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones](https://husky-morocco-f72.notion.site/From-f-x-and-g-x-to-f-g-x-LLMs-Learn-New-Skills-in-RL-by-Composing-Old-Ones-2499aba4486f802c8108e76a12af3020)
-
-[^3]: [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
-
-
-
 2. AI + formal verifier system: 
   - I am interested in building scalable solutions where AI systems can autonomously verify their own reasoning and results through interaction with a verifier system(**PLVR**)[^4], which might be a potential pathway to achieving **scalability**.
   - How to design task generation mechanisms that push the model to propose tasks that are tough but not too difficult. This touches on concepts like curriculum learning or **auto self-play**.
-
-[^4]: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
 
 ## Research experience
 
@@ -45,3 +34,14 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
 
 
 - Augest 2024: Research Assistant in [Zhangjiang National Lab](https://www.zjlab.ac.cn/), where I completed an AI4PHY project on my own. 
+
+
+
+
+[^1]: [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/pdf/2501.17161)
+
+[^2]: [From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by Composing Old Ones](https://husky-morocco-f72.notion.site/From-f-x-and-g-x-to-f-g-x-LLMs-Learn-New-Skills-in-RL-by-Composing-Old-Ones-2499aba4486f802c8108e76a12af3020)
+
+[^3]: [Reasoning models don't always say what they think](https://www.anthropic.com/research/reasoning-models-dont-say-think)
+
+[^4]: [Absolute Zero: Reinforced Self-play Reasoning with Zero Data](https://arxiv.org/abs/2505.03335)
