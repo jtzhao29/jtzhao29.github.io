@@ -18,7 +18,7 @@ See [Research interests](#research-interests) part for more information about wh
 
 - **Oct,2025**: I am very honered to receive Xiaomi Scholarship!
 
-- **Nov,2025**: I am very honered to Secure a PhD position at the SII, Shanghai via autumn camp! 
+<!-- - **Nov,2025**: I am very honered to Secure a PhD position at the SII, Shanghai via autumn camp!  -->
 
 
 
