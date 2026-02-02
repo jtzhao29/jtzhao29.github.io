@@ -14,7 +14,7 @@ See [Research interests](#research-interests) part for more information about wh
 ## news
 <!-- 十一月的英文是？ -->
 
-- Jan,2026 I am very glad to see our paper is accepted by ICLR 2026![geobench:Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation](https://arxiv.org/abs/2512.24119)
+- Jan,2026 I am very glad to see our paper is accepted by ICLR 2026! [geobench:Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation](https://arxiv.org/abs/2512.24119)
 
 - Oct,2025 I am very honered to receive Xiaomi Scholarship!
 
