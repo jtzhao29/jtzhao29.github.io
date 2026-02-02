@@ -9,21 +9,21 @@ redirect_from:
 
 I am a third-year undergraduate majoring in Physics at Shanghai Jiaotong University, with a great interst in AI. 
 
-See [Research interests](#research-interests) part for more information about what I am intersted. If you share a similar passion with me, feel free to reach out and connect with me!
+See [Research interests](#research-interests) part for more information about what I am intersted, and see my [CV](/files/Jiatong Zhao_Resume_202601.pdf) for more details. If you share a similar passion with me, feel free to reach out and connect with me!
 
 ## news
 <!-- 十一月的英文是？ -->
 
-- Jan,2026 I am very glad to see our paper is accepted by ICLR 2026![geobench:Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation](https://arxiv.org/abs/2512.24119)
+- **Jan,2026**: I am very glad to see our paper is accepted by ICLR 2026! [geobench:Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation](https://arxiv.org/abs/2512.24119)
 
-- Oct,2025 I am very honered to receive Xiaomi Scholarship!
+- **Oct,2025**: I am very honered to receive Xiaomi Scholarship!
 
-- Nov,2025 I am very honered to Secure a PhD position at the SII, Shanghai via autumn camp! 
+- **Nov,2025**: I am very honered to Secure a PhD position at the SII, Shanghai via autumn camp! 
 
 
 
 ## Education
-- BSc in Physics, (Zhiyuan Honor Colladge) Shanghai Jiaotong University, 2027 (Expected)
+- BSc in Physics, (Zhiyuan Honor Collage) Shanghai Jiaotong University, 2027 (Expected)
 
 ## Research interests
 
