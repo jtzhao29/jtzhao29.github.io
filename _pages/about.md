@@ -29,7 +29,7 @@ See [Research interests](#research-interests) part for more information about wh
 
 I mainly focus on how to enable models to emergently develop **generalized reasoning abilities at a sustainale scale with RL**. I believe that as the scale of systems increases, whether a model can emergently develop generalized reasoning abilities without relying on external supervision is a key step toward AGI. My research interests in this area include:
 
-1. sclabel RL: 
+1. scalable RL: 
   - Emergent Reasoning Ability: whether RL can maximize exploration and reasoning in models without relying on well-predefined structure or SFT. I also explore the potential for pure RL to drive the emergence of latent reasoning processes, particularly in context of CoT reasoning. 
   - RL stability and robustness: a critical issue of current RL framework is instability, particularly in phenomenon of train-inference mismatch. In case that the current AI Infra issue of mismatch cannot be addressed easily, I aim to uncover the underlying cause of such instability and develop reliable RL training recipe.
   - RL self-evolving: develop scalable RL frameworks that enable models to autonomously improve their reasoning and performance without constant external reward, pushing towards more adaptable and self-sustaining systems.
@@ -40,7 +40,7 @@ I mainly focus on how to enable models to emergently develop **generalized reaso
 
 ## Research experience
 
-- Sep 2025 - Present: Research Intern @ [THU C3I](https://c3i.ee.tsinghua.edu.cn/). Supervised by [Ning Ding](https://www.stingning.cn/)
+- Sep 2025 - Present: Research Intern @ [THU C3I](https://c3i.ee.tsinghua.edu.cn/). Supervised by [Ning Ding](https://www.stingning.cn/) and [Ganqv cui](https://cgq15.github.io/)
 
 - July 2025 - Dec 2025: Research Intern @ Big AI Dream Lab, Shanghai AI Lab. Supervised by [Jie Fu](https://bigaidream.github.io/)
 
