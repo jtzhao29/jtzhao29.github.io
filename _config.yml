@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Jiatong Zhao"
 title_separator          : "-"
 name                     : &name "Jiatong Zhao"
-description              : &description "Undergraduate student @ Shanghai Jiaotong University"
+description              : &description "Reinforcement learning for reasoning, verifiable AI systems, and multimodal evaluation"
 url                      : https://jtzhao29.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jtzhao29/jtzhao29.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "jtzhao.jpg"
   name             : "Jiatong Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Undergraduate student @ Shanghai Jiaotong University"
+  bio              : "RL for reasoning, verifiable AI systems, multimodal evaluation"
   location         : "Shanghai, China"
-  employer         : "Shanghai Jiaotong University"
+  employer         : "Shanghai Jiao Tong University"
   uri              : # URL
   email            : "zhaojiatong@sjtu.edu.cn" 
 
@@ -118,7 +118,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
