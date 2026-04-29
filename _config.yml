@@ -22,7 +22,7 @@ repository               : "jtzhao29/jtzhao29.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jtzhao.jpg"
+  avatar           : "jiatong_1.jpg"
   name             : "Jiatong Zhao"
   pronouns         : # example: "she/her"  
   bio              : "RL for reasoning, verifiable AI systems, multimodal evaluation"
