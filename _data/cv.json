@@ -91,18 +91,18 @@
   "references": [],
   "publications": [
     {
+      "name": "Co4ICF: Co-evolving Physics-informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion",
+      "publisher": "SIGKDD 2026",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "A closed-loop AI4Physics system coupling a physics-informed surrogate with an RL-based optimizer for inertial confinement fusion pulse design."
+    },
+    {
       "name": "GeoBench: Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation",
       "publisher": "ICLR 2026",
       "releaseDate": "2026",
       "website": "https://arxiv.org/abs/2512.24119",
       "summary": "A hierarchical benchmark for multimodal geometry reasoning that decomposes failures into visual perception, goal-oriented planning, theorem application, and self-reflective backtracking."
-    },
-    {
-      "name": "Co4ICF: Co-evolving Physics-informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion",
-      "publisher": "Manuscript",
-      "releaseDate": "",
-      "website": "",
-      "summary": "A closed-loop AI4Physics system coupling a physics-informed surrogate with an RL-based optimizer for pulse design."
     }
   ],
   "presentations": [],

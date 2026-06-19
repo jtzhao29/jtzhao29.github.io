@@ -24,6 +24,12 @@ I am currently a research intern at [THU C3I](https://c3i.ee.tsinghua.edu.cn/), 
 
 ## Selected Publications and Projects
 
+**Co4ICF: Co-evolving Physics-informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion**
+
+SIGKDD 2026
+
+We propose a closed-loop AI4Physics system that couples a physics-informed surrogate with an RL-based optimizer for inertial confinement fusion pulse design.
+
 **GeoBench: Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation**
 
 ICLR 2026
@@ -32,14 +38,9 @@ We propose a hierarchical benchmark for multimodal geometry reasoning, decomposi
 
 [[arXiv]](https://arxiv.org/abs/2512.24119) [[Paper]](https://arxiv.org/pdf/2512.24119.pdf)
 
-**Co4ICF: Co-evolving Physics-informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion**
-
-Manuscript
-
-This project explores a closed-loop AI4Physics system that couples a physics-informed surrogate with an RL-based optimizer for pulse design.
-
 ## News
 
+- **Jun 2026**: Our paper **Co4ICF: Co-evolving Physics-informed Surrogate and RL-based Pulse Optimizer for Inertial Confinement Fusion** was accepted to SIGKDD 2026.
 - **Jan 2026**: Our paper **GeoBench: Rethinking Multimodal Geometric Problem-Solving via Hierarchical Evaluation** was accepted to ICLR 2026.
 - **Oct 2025**: I received the Xiaomi Scholarship.
 - **Sep 2025**: I joined THU C3I as a research intern, supervised by Ning Ding.
