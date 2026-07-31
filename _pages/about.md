@@ -12,9 +12,9 @@ I am currently a research intern at [THU C3I](https://c3i.ee.tsinghua.edu.cn/), 
 
 [CV](/files/Jiatong%20Zhao_Resume_202601.pdf) / [Publications](/academic-papers/) / [GitHub](https://github.com/jtzhao29) / [OpenReview](https://openreview.net/profile?id=%7EJiatong_Zhao1)
 
-<div class="home-callout">
+<!-- <div class="home-callout">
   <strong>Research question.</strong> How can models learn to reason beyond memorized trajectories when supervision is weak, feedback is sparse, and verification is available?
-</div>
+</div> -->
 
 <span id="research"></span>
 ## Research Agenda

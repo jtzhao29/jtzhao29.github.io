@@ -12,6 +12,14 @@
   --site-line: #dce3ea;
 }
 
+/* Give the desktop homepage a wider reading canvas, closer to the reference site. */
+@media screen and (min-width: 1280px) {
+  #main,
+  .masthead__inner-wrap {
+    max-width: 1440px;
+  }
+}
+
 .publication-list,
 .experience-list {
   display: grid;
