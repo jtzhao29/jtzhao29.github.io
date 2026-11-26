@@ -65,3 +65,9 @@ If the model generates only one token, prefill has done all the work. Its trace 
 ## Checking the boundary against a single worker
 
 We held the weights, inputs, and sampling procedure fixed, aligned the patched PD response with the single-worker response token by token, and compared the ordered expert IDs at every layer. In the eight-token example, all eight prompt rows and all three decode rows matched exactly. Across mixed-length batches, different trace start positions, and generation budgets of zero or one, all 177 rows in the 15 responses matched the reference. [Reproduction and regression tests](https://github.com/sgl-project/sglang/pull/53355)
+
+## Cite this post
+
+```bibtex
+{% include citations/sglang-prompt-expert-ids.bib %}
+```

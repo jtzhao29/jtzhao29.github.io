@@ -57,3 +57,9 @@ routes = concatenate([prompt_routes, generated_routes])
 ## 用非 PD 结果验证拼接边界
 
 我们固定权重、输入和采样方式，把修复后的 PD 响应逐 token 与非 PD 响应对齐，再比较每层 expert ID 的顺序。8-token 例子的前 8 行和后 3 行都完全一致。把混合长度 batch、不同读取起点以及生成预算为 0 或 1 的情况算在内，15 份响应共 177 行记录全部对齐。[复现与回归测试](https://github.com/sgl-project/sglang/pull/53355)
+
+## 引用本文
+
+```bibtex
+{% include citations/sglang-prompt-expert-ids.bib %}
+```
