@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<main class="blog-shell">
+  <header class="blog-heading">
+    <div class="blog-toolbar">
+      <h1>{{ page.title }}</h1>
+      {% include blog-language.html %}
+    </div>
+    <p>{{ page.excerpt | strip_html }}</p>
+  </header>
+  {% assign posts = site.blog | where: 'lang', page.lang | sort: 'date' | reverse %}
+  <ul class="blog-list">
+    {% for post in posts %}
+      <li><article>
+        <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%Y.%m.%d' }}</time>
+        <div>
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+          <p>{{ post.excerpt | strip_html }}</p>
+        </div>
+      </article></li>
+    {% endfor %}
+  </ul>
+</main>

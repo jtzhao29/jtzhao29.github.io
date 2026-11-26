@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<main class="blog-shell blog-post">
+  <div class="blog-toolbar">
+    {% if page.lang == 'en' %}
+      <a href="{{ '/blog/en/' | relative_url }}">All posts</a>
+    {% else %}
+      <a href="{{ '/blog/' | relative_url }}">全部文章</a>
+    {% endif %}
+    {% include blog-language.html %}
+  </div>
+  <article>
+    <header class="blog-heading">
+      <h1>{{ page.title | escape }}</h1>
+      <p class="blog-byline">{{ site.author.name }} · <time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%Y.%m.%d' }}</time></p>
+    </header>
+    <div class="blog-body">{{ content }}</div>
+  </article>
+</main>

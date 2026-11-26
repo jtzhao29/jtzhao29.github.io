@@ -1,0 +1,9 @@
+<nav class="blog-language" aria-label="{% if page.lang == 'en' %}Reading language{% else %}阅读语言{% endif %}">
+  {% if page.lang == 'en' %}
+    <a lang="zh-Hans" hreflang="zh-Hans" href="{{ page.translation_url | relative_url }}">中文</a>
+    <span lang="en" aria-current="page">English</span>
+  {% else %}
+    <span lang="zh-Hans" aria-current="page">中文</span>
+    <a lang="en" hreflang="en" href="{{ page.translation_url | relative_url }}">English</a>
+  {% endif %}
+</nav>

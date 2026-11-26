@@ -4,6 +4,11 @@
 
 {% include seo.html %}
 
+{% if page.translation_url %}
+  <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url | absolute_url }}">
+  <link rel="alternate" hreflang="{% if page.lang == 'en' %}zh-Hans{% else %}en{% endif %}" href="{{ page.translation_url | absolute_url }}">
+{% endif %}
+
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
